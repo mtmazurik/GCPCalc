@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "airy-gate-240816",
+  "private_key_id": "b9f9d29d332b24a2e4fc7b2e9034876bc589f885",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcXL2CF4HvIlKu\nZD777255MKaOs0E0auI1mReTwAyqIYrY5Gwl9Cm6BfZZt/EhwvpmVMFwvdzkBGiX\nekjmBVcW6VMsgJ+bQh6OME0D5u4qhwYAEHlig/+saH8+26Vxb/hIg5Z0LXI2YHmH\nO5RiR3Bd6MQBvcc4FeAnuwUwza6YOpLJP6NgrCVo6UzTg8v99icTEFQq6UGvCZ98\nJvcu9hDF+MUAVZcpQThG33rd5tbFF53sZz5/vM11RMQJVga4yaFP1s39lFz1YU0K\nCnMF5dqrsXy0uIFDh+J8u63NGTwmXDxPS+LuAjmZ4Ouoa1Yxsm2zoHus0ONQlqv/\n2FMMyyKnAgMBAAECggEATUd+uBmzM8PUdnGAOZb8FDSJ1TReETCUTaY042bDO6Cp\nVYoLs3Rp3RFOUMhbCnMpu8K++mA0GJPfN6KN/fV8tguqem+1so/qtx7DKZ8MbgNe\n4VBDFgAkMItS/HelXJvY68nxZckCTkK/PamiLDKfpCJDIZMwr5UMPMaviY/Wb1CZ\nz9S0f62CAQDaHZkMihpnzN0g7eDepD2cJNq8Vl7v7DJRJyH3XWKkMrDNXoQsH4fi\nXat68KOxNC0GiDpIYY3hoZJAiSntdL91R1TQonc9Sk5KsqHtO5DJ4JiRG6moH5JQ\nG269GYLRiLooy+RKE15nm910gpucaX2nSACuVI+2BQKBgQDPXAIFKLvrQniNx4bo\n1TEYA+1CU54M+qmeMacq7BqGo7yC8jSh6k8kbhPym0vQd+Be61eL7gLMOEyymPB8\npJz7R+KNX6dPlR69H7SwH1MvEn90sgVIPpv//SbwFD8ry8eg5VYevGBN3KV5tevG\nlDk6Miqjs8hLePyiAGJRZYu4GwKBgQDBClbnITQqJjpojgEBBow9rxr+cA4ijZ81\n7c+ueMoL9NfoZtJLQOXSiYS6Up0nTSH8gtnIV7Ocsrfgti65MnZzUXxYxldRie+l\nUuTxPa3RJditettXnCfdghhENge2aNvYJphmxp99evad6Q2IYtZPJXBS8ZNbCxbB\nRKck57qAZQKBgCAaHG30CnO3jLZWZ3pwVvNi2D5md5eGzu+gvEKW3txtSOf021Ud\n0zbOm+P5StlxVZkcUidlp6U6KhWUO9bwHSWB0X8Vie92JJYe7Hg/wT8OXBES5mJy\n3u/Yn0iXudfr6nHsT1Le0wH64Ntg4KmTlPB/h75kPOQCTQo/iPkVAXZ1AoGAUCOB\ntkwjgsgCAXvKUOmt+MGj/DL6uz998/549F5yyonnxDRDYzha8I9kiZFYaoNr849C\n6Bf4mbnb+i7HsNyRLgiLDbOxdklEMqb6ImhPq38Bt+tD+df6+MtUVaT0iLZ5Zf+H\nz0rv1UDh9uZUVuVpQMwzGEvvt6Ef3jYpCXomA70CgYB+cbcuRP5ISt12WHrcAz1u\nlRog/MIGswybHcUFOtMd7+VxLaUimrAFL18JfNxPwsu0sSiMRHvWFgQ0qfUYUcZY\nXmy5JD9tS+DbRPxcDBBVbuV9RoBObvVOdY6BRVEq+4q4RnRnz68qvT5DVpDNXubh\n4rbAli+cDxXJ4Z7hUrDYgg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcpcalc@airy-gate-240816.iam.gserviceaccount.com",
+  "client_id": "118423548760943153659",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcpcalc%40airy-gate-240816.iam.gserviceaccount.com"
+}
